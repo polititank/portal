@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Polititank",
+    "description": "",
+    "home_page_url": "https://polititank.github.io/portal",
+    "feed_url": "https://polititank.github.io/portal/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Polititank"
+    },
+    "items": [
+        {
+            "id": "https://polititank.github.io/portal/test/",
+            "url": "https://polititank.github.io/portal/test/",
+            "title": "Test",
+            "summary": "test 123… ",
+            "content_html": "<p>test 123…</p>\n",
+            "author": {
+                "name": "Polititank"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-30T12:58:48+01:00",
+            "date_modified": "2021-05-30T13:27:51+01:00"
+        }
+    ]
+}
