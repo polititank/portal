@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Polititank</title>
-    <link href="https://polititank.github.io/portal/feed.xml" rel="self" />
-    <link href="https://polititank.github.io/portal" />
+    <link href="http://polititank.pt/feed.xml" rel="self" />
+    <link href="http://polititank.pt" />
     <updated>2021-06-09T23:22:29+01:00</updated>
     <author>
         <name>Polititank</name>
     </author>
-    <id>https://polititank.github.io/portal</id>
+    <id>http://polititank.pt</id>
 
     <entry>
         <title>Gabinete de Crise #9</title>
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-9/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-9/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-9/"/>
+        <id>http://polititank.pt/gabinete-de-crise-9/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-09T23:22:29+01:00</updated>
@@ -42,8 +42,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-8/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-8/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-8/"/>
+        <id>http://polititank.pt/gabinete-de-crise-8/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T14:19:19+01:00</updated>
@@ -72,8 +72,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-7/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-7/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-7/"/>
+        <id>http://polititank.pt/gabinete-de-crise-7/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T14:13:43+01:00</updated>
@@ -99,8 +99,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-6/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-6/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-6/"/>
+        <id>http://polititank.pt/gabinete-de-crise-6/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T13:10:28+01:00</updated>
@@ -126,8 +126,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-5/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-5/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-5/"/>
+        <id>http://polititank.pt/gabinete-de-crise-5/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T12:58:38+01:00</updated>
@@ -153,8 +153,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-4/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-4/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-4/"/>
+        <id>http://polititank.pt/gabinete-de-crise-4/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T12:53:42+01:00</updated>
@@ -181,8 +181,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-3/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-3/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-3/"/>
+        <id>http://polititank.pt/gabinete-de-crise-3/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T12:41:30+01:00</updated>
@@ -208,8 +208,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-2/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-2/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-2/"/>
+        <id>http://polititank.pt/gabinete-de-crise-2/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T12:23:33+01:00</updated>
@@ -239,8 +239,8 @@
         <author>
             <name>Polititank</name>
         </author>
-        <link href="https://polititank.github.io/portal/gabinete-de-crise-1/"/>
-        <id>https://polititank.github.io/portal/gabinete-de-crise-1/</id>
+        <link href="http://polititank.pt/gabinete-de-crise-1/"/>
+        <id>http://polititank.pt/gabinete-de-crise-1/</id>
             <category term="Gabinete de Crise"/>
 
         <updated>2021-06-05T12:24:37+01:00</updated>
