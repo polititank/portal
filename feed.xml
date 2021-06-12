@@ -3,7 +3,7 @@
     <title>Polititank</title>
     <link href="http://polititank.pt/feed.xml" rel="self" />
     <link href="http://polititank.pt" />
-    <updated>2021-06-09T23:22:29+01:00</updated>
+    <updated>2021-06-12T12:07:10+01:00</updated>
     <author>
         <name>Polititank</name>
     </author>
@@ -34,6 +34,27 @@
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/KYp2puiyilI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="post__iframe"><iframe loading="lazy" width="100%" height="232" src="https://open.spotify.com/embed-podcast/episode/4PlAkteYxzBXxwsTeWHYIc" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
 <div class="post__iframe"><iframe loading="lazy" height="175" style="width: 100%; overflow: hidden; background: transparent;" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/9-carta-dos-direitos-humanos-na-era-digital-arraial/id1562875176?i=1000524678814"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Compêndio Europa</title>
+        <author>
+            <name>Polititank</name>
+        </author>
+        <link href="http://polititank.pt/compendio-europa/"/>
+        <id>http://polititank.pt/compendio-europa/</id>
+            <category term="Compêndios"/>
+
+        <updated>2021-06-12T12:07:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Download PDF
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="http://polititank.pt/compendio_europa.pdf">Download PDF</a></p>
             ]]>
         </content>
     </entry>

@@ -26,6 +26,21 @@
             "date_modified": "2021-06-09T23:22:29+01:00"
         },
         {
+            "id": "http://polititank.pt/compendio-europa/",
+            "url": "http://polititank.pt/compendio-europa/",
+            "title": "Compêndio Europa",
+            "summary": "Download PDF",
+            "content_html": "<p><a href=\"http://polititank.pt/compendio_europa.pdf\">Download PDF</a></p>",
+            "author": {
+                "name": "Polititank"
+            },
+            "tags": [
+                   "Compêndios"
+            ],
+            "date_published": "2021-06-05T15:37:14+01:00",
+            "date_modified": "2021-06-12T12:07:10+01:00"
+        },
+        {
             "id": "http://polititank.pt/gabinete-de-crise-8/",
             "url": "http://polititank.pt/gabinete-de-crise-8/",
             "title": "Gabinete de Crise #8",
