@@ -3,7 +3,7 @@
     <title>Polititank</title>
     <link href="https://polititank.pt/feed.xml" rel="self" />
     <link href="https://polititank.pt" />
-    <updated>2021-10-12T17:26:34+01:00</updated>
+    <updated>2021-10-12T21:43:44+01:00</updated>
     <author>
         <name>Polititank</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://polititank.pt/yang-segue-em-frente/"/>
         <id>https://polititank.pt/yang-segue-em-frente/</id>
-            <category term="Opinião"/>
+            <category term="Comentário"/>
+            <category term="Análises"/>
 
-        <updated>2021-10-12T17:26:34+01:00</updated>
+        <updated>2021-10-12T21:43:44+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://polititank.pt/media/posts/35/49390251158_0f63cfd280_o2-2.jpg" alt="Andrew Yang speaking with supporters at a town hall at the American Legion Post 111 in Newton, Iowa." />
