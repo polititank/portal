@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://polititank.pt/formulario-de-inscricao-no-polititank/",
+            "url": "https://polititank.pt/formulario-de-inscricao-no-polititank/",
+            "title": "Formulário de Inscrição no Polititank",
+            "summary": "A carregar…",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"1750\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSc_NfOhVI46b8MxscHQdCgOmeoj_Vdw7bGuvTjMjUdQ8THAfg/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">A carregar…</iframe></div>",
+            "author": {
+                "name": "Polititank"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-21T11:29:10+01:00",
+            "date_modified": "2021-10-21T11:42:34+01:00"
+        },
+        {
             "id": "https://polititank.pt/gabinete-de-crise-26/",
             "url": "https://polititank.pt/gabinete-de-crise-26/",
             "title": "Gabinete de Crise #26",
@@ -151,21 +165,6 @@
             ],
             "date_published": "2021-10-04T15:40:15+01:00",
             "date_modified": "2021-10-04T15:42:57+01:00"
-        },
-        {
-            "id": "https://polititank.pt/gabinete-de-crise-23/",
-            "url": "https://polititank.pt/gabinete-de-crise-23/",
-            "title": "Gabinete de Crise #23",
-            "summary": "Austrália Quebra Acordo Com França; Met Gala Tax The Rich, Texto Anti-Woke de Sérgio Sousa Pinto Uma semana antes do episódio 24, falamos de uma semana que foi problemática. Alexandria Ocasio Cortez foi para o evento das celebridades a MET GALA, onde o custo do&hellip;",
-            "content_html": "<h1 class=\"title style-scope ytd-video-primary-info-renderer\">Austrália Quebra Acordo Com França; Met Gala Tax The Rich, Texto Anti-Woke de Sérgio Sousa Pinto</h1>\n<p>Uma semana antes do episódio 24, falamos de uma semana que foi problemática. Alexandria Ocasio Cortez foi para o evento das celebridades a MET GALA, onde o custo do bilhete é só para alguns, e usou o vestido viral Tax The Rich, pena é que o vestido não tenha pago taxas... Falemos desta hipocrisia, que tirou o Cláudio Fonseca e a Carlota Pignatelli Garcia do sério, aliás, a Carlota apresentou-se com um vestido.</p>\n<p>O Cláudio defendeu a sua amada França, neste caso em que a Austrália roeu a corda do acordo dos submarinos nucleares, devido ao acordo entre Austrália, Estados Unidos da América e Reino Unido.</p>\n<p>E como se o caldo não estivesse entornado, veio a veia anti woke em que se teve a base o artigo escrito pelo deputado socialista Sérgio Sousa Pinto, e fomos parar à Disney e à Disney+</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5uI7M5AUCKY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"232\" src=\"https://open.spotify.com/embed/episode/6XKzw65ZNHFcSQTJnXhI0y\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe></div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" height=\"175\" style=\"width: 100%; overflow: hidden; background: transparent;\" allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.podcasts.apple.com/gb/podcast/23-austr%C3%A1lia-quebra-acordo-com-fran%C3%A7a-met-gala-tax/id1562875176?i=1000536387488\"></iframe></div>",
-            "author": {
-                "name": "Polititank"
-            },
-            "tags": [
-                   "Gabinete de Crise"
-            ],
-            "date_published": "2021-09-22T22:07:49+01:00",
-            "date_modified": "2021-09-23T14:26:22+01:00"
         }
     ]
 }

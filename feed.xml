@@ -3,12 +3,32 @@
     <title>Polititank</title>
     <link href="https://polititank.pt/feed.xml" rel="self" />
     <link href="https://polititank.pt" />
-    <updated>2021-10-20T20:56:09+01:00</updated>
+    <updated>2021-10-21T11:42:34+01:00</updated>
     <author>
         <name>Polititank</name>
     </author>
     <id>https://polititank.pt</id>
 
+    <entry>
+        <title>Formulário de Inscrição no Polititank</title>
+        <author>
+            <name>Polititank</name>
+        </author>
+        <link href="https://polititank.pt/formulario-de-inscricao-no-polititank/"/>
+        <id>https://polititank.pt/formulario-de-inscricao-no-polititank/</id>
+
+        <updated>2021-10-21T11:42:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A carregar…
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="640" height="1750" src="https://docs.google.com/forms/d/e/1FAIpQLSc_NfOhVI46b8MxscHQdCgOmeoj_Vdw7bGuvTjMjUdQ8THAfg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">A carregar…</iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gabinete de Crise #26</title>
         <author>
@@ -300,33 +320,6 @@
                 <h1 class="title style-scope ytd-video-primary-info-renderer">ESPECIAL EPISÓDIO 24 - 24H LIVE</h1>
 <p>Chegamos ao episódio 24 e como tal, cumprimos a promessa de estarmos 24 horas em directo, com a equipa do Polititank, com convidados nacionais, mas também internacionais. Às 10h junta-se a nós a Professora Dina Soller Às 14h juntam-se 3 consultores brasileiros: Lucas Pimenta, que já esteve no Gabinete de Crise, o Emerson e o Kléber.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/TcOU-6AmXqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gabinete de Crise #23</title>
-        <author>
-            <name>Polititank</name>
-        </author>
-        <link href="https://polititank.pt/gabinete-de-crise-23/"/>
-        <id>https://polititank.pt/gabinete-de-crise-23/</id>
-            <category term="Gabinete de Crise"/>
-
-        <updated>2021-09-23T14:26:22+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Austrália Quebra Acordo Com França; Met Gala Tax The Rich, Texto Anti-Woke de Sérgio Sousa Pinto Uma semana antes do episódio 24, falamos de uma semana que foi problemática. Alexandria Ocasio Cortez foi para o evento das celebridades a MET GALA, onde o custo do&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1 class="title style-scope ytd-video-primary-info-renderer">Austrália Quebra Acordo Com França; Met Gala Tax The Rich, Texto Anti-Woke de Sérgio Sousa Pinto</h1>
-<p>Uma semana antes do episódio 24, falamos de uma semana que foi problemática. Alexandria Ocasio Cortez foi para o evento das celebridades a MET GALA, onde o custo do bilhete é só para alguns, e usou o vestido viral Tax The Rich, pena é que o vestido não tenha pago taxas... Falemos desta hipocrisia, que tirou o Cláudio Fonseca e a Carlota Pignatelli Garcia do sério, aliás, a Carlota apresentou-se com um vestido.</p>
-<p>O Cláudio defendeu a sua amada França, neste caso em que a Austrália roeu a corda do acordo dos submarinos nucleares, devido ao acordo entre Austrália, Estados Unidos da América e Reino Unido.</p>
-<p>E como se o caldo não estivesse entornado, veio a veia anti woke em que se teve a base o artigo escrito pelo deputado socialista Sérgio Sousa Pinto, e fomos parar à Disney e à Disney+</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/5uI7M5AUCKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-<div class="post__iframe"><iframe loading="lazy" width="100%" height="232" src="https://open.spotify.com/embed/episode/6XKzw65ZNHFcSQTJnXhI0y" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
-<div class="post__iframe"><iframe loading="lazy" height="175" style="width: 100%; overflow: hidden; background: transparent;" allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/23-austr%C3%A1lia-quebra-acordo-com-fran%C3%A7a-met-gala-tax/id1562875176?i=1000536387488"></iframe></div>
             ]]>
         </content>
     </entry>
