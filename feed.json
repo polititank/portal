@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://polititank.pt/gustavo-carona-e-o-faucismo/",
+            "url": "https://polititank.pt/gustavo-carona-e-o-faucismo/",
+            "title": "Gustavo Carona e o Faucismo",
+            "summary": "Esta semana fomos brindados com uma espetacular demonstração de arrogância por parte de Gustavo Carona, que acha que “ao insultarmos a ciência, estamos a pôr as leis fundamentais da nossa existência ao abrigo de “opiniões”. Refere-se à opinião de João Miguel Tavares, para quem é&hellip;",
+            "content_html": "<p align=\"justify\">Esta semana fomos brindados com uma espetacular demonstração de arrogância por parte de Gustavo Carona, que acha que “ao insultarmos a ciência, estamos a pôr as leis fundamentais da nossa existência ao abrigo de “opiniões”. Refere-se à opinião de João Miguel Tavares, para quem é tão mau ser “negacionista tonto” como “aceitacionista acéfalo”. Esta atitude não pode deixar de fazer lembrar Anthony Fauci que, em junho deste ano declarou que “Muito do que se vê como ataques a mim, francamente, são ataques à ciência, porque todas as coisas de que falei, de forma consistente desde o início, foram fundamentalmente baseadas na ciência”.</p>\n<p align=\"justify\">Gustavo Carona continua dizendo que “Ao pôr os ‘negacionistas’ — da doença, da vacina, da gravidade da doença, etc. — e os ‘aceitacionistas acéfalos’ nos mesmo pratos da balança, J.M.T. está a legitimar um debate que não existe, nem pode existir. A isto chama-se ‘viés do equilíbrio’: não se põe o criminoso e o juiz a debater ideias […]”. Parece-me no mínimo arrogante e no máximo autoritário que esteja a criticar que no seio da sociedade se debatam ideias, e que não nos limitemos todos a seguir ordens da “ciência” (entre aspas porque a ciência não dá ordens) e nos atrevamos a não nos demitirmos da responsabilidade de pensar por nós próprios.</p>\n<p align=\"justify\">“Se tem de haver debate?” – pergunta Carona - “Claro que sim, mas por quem de direito, em sede própria. Ou vamos discutir na opinião pública como é que se faz uma ponte ou constrói um foguetão?” É claro, doutor Gustavo, que não vamos discutir na opinião pública como se faz uma ponte, mas devemos, isso sim, discutir se a ponte é necessária, e fazer uma análise de custo-benefício da sua construção, tendo em conta inúmeros fatores económicos e ambientais. Depois, se decidirmos que se deve avançar com a sua construção, devemos manter-nos atentos, e escrutinar quem a projeta e constrói, caso algo pareça estar a correr mal.</p>\n<p align=\"justify\">Da mesma forma, podemos olhar para os dados que temos em relação a este vírus e avaliar as medidas que têm sido tomadas para o travar: se têm sido adequadas ou desproporcionais, se podem estar a prejudicar mais outras áreas da vida do que estão a beneficiar a saúde, e questionar a forma alarmista como os dados nos são apresentados pela comunicação social e pelos nossos governantes. Ou o doutor Gustavo Carona prefere viver numa sociedade em que a plebe não pensa e delega essa responsabilidade a uma reduzida elite académica?</p>\n<p align=\"justify\">A ciência é, segundo a Oxford Languages, “a atividade intelectual e prática que abrange o estudo sistemático da estrutura e comportamento do mundo físico e natural por meio da observação e experimentação.” Assim sendo, será de esperar que à medida que mais observações e experimentações forem feitas, o conhecimento e aquilo que aceitamos e damos por garantido como certo, se altere profundamente. Isto justifica e legitima a discussão e demonstra que não devemos ter as prescrições dos “especialistas” (entre aspas porque nem sempre o são), como inquestionáveis.</p>\n<p align=\"justify\">Quem acha que a ciência é outra coisa que não isto poderá querer recordar-se de que, em 1633, Galileu Galilei foi acusado de heresia pela Igreja Católica por ir contra a crença instalada de que o Sol girava à volta da Terra. No sentido inverso, em 1949, Egas Moniz foi galardoado com o prémio Nobel da Medicina pelo procedimento que inventou para tratar certas doenças mentais – a lobotomia.</p>\n<blockquote>\n<p align=\"justify\">\"Qual o grau de especialização em determinado assunto para se emitir uma opinião sobre ele? Pois por esta lógica, seria de esperar que só os epidemiologistas pudessem falar de Covid [...]\"</p>\n</blockquote>\n<p align=\"justify\">Se me não me espanta ver grunhos das redes sociais serem tão dogmáticos como o era a Inquisição no século XV, horroriza-me ver médicos a fazê-lo. Já tentei perguntar aos grunhos da internet qual o grau académico necessário para se ler notícias, interpretar a informação que nos é apresentada e emitir uma opinião. Até agora não obtive nenhuma resposta coerente. Contudo, devo acrescentar a essa outra pergunta: qual o grau de especialização em determinado assunto para se emitir uma opinião sobre ele? Pois por esta lógica, seria de esperar que só os epidemiologistas pudessem falar de Covid e, tanto quanto sei, o Dr. Gustavo Carona é médico anestesista. Bem sei que está mais habilitado do que eu, que nem tive ciências no secundário, mas que eu saiba, todos tivemos filosofia, disciplina em que, pelo menos no meu tempo, se aprendia o que é o uso falacioso do argumento de autoridade.</p>\n<p><br><br></p>\n<p> </p>\n<p><em>Este artigo é de opinião e por isto suas ideias reflectem a visão do autor e não de todos os membros do Polititank.</em></p>",
+            "author": {
+                "name": "Polititank"
+            },
+            "tags": [
+                   "Opinião",
+                   "Análises"
+            ],
+            "date_published": "2021-12-15T23:02:53+00:00",
+            "date_modified": "2021-12-15T23:08:23+00:00"
+        },
+        {
             "id": "https://polititank.pt/energia-nuclear-sustentavel/",
             "url": "https://polititank.pt/energia-nuclear-sustentavel/",
             "title": "Energia Nuclear Sustentável?",
@@ -87,7 +103,7 @@
                    "Opinião"
             ],
             "date_published": "2021-11-25T07:44:00+00:00",
-            "date_modified": "2021-11-25T07:44:00+00:00"
+            "date_modified": "2021-12-15T23:00:21+00:00"
         },
         {
             "id": "https://polititank.pt/eutanasia-e-a-minha-sanidade-mental/",
@@ -153,21 +169,6 @@
             ],
             "date_published": "2021-11-16T12:34:56+00:00",
             "date_modified": "2021-12-05T17:01:22+00:00"
-        },
-        {
-            "id": "https://polititank.pt/gabinete-de-crise-29/",
-            "url": "https://polititank.pt/gabinete-de-crise-29/",
-            "title": "Gabinete de Crise #29",
-            "summary": "Cimeira Polititank; Lei Teletrabalho; Eleições Legislativas 30 de Janeiro 2022 O Polititank apresenta-te a Cimeira do Polititank, o nosso maior evento nos dias 27 e 28 de Novembro, no Convento dos Capuchos em Lisboa. Falamos sobre a nova lei do Teletrabalho e os problemas que&hellip;",
-            "content_html": "<h1 class=\"title style-scope ytd-video-primary-info-renderer\">Cimeira Polititank; Lei Teletrabalho; Eleições Legislativas 30 de Janeiro 2022</h1>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://polititank.pt/media/posts/53/Cimeira-29.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://polititank.pt/media/posts/53/responsive/Cimeira-29-xs.png 300w ,https://polititank.pt/media/posts/53/responsive/Cimeira-29-sm.png 480w ,https://polititank.pt/media/posts/53/responsive/Cimeira-29-md.png 768w ,https://polititank.pt/media/posts/53/responsive/Cimeira-29-lg.png 1024w ,https://polititank.pt/media/posts/53/responsive/Cimeira-29-xl.png 1360w ,https://polititank.pt/media/posts/53/responsive/Cimeira-29-2xl.png 1600w\"  alt=\"\" width=\"1280\" height=\"720\"></figure>\n<p><span class=\"style-scope yt-formatted-string\" dir=\"auto\">O Polititank apresenta-te a Cimeira do Polititank, o nosso maior evento nos dias 27 e 28 de Novembro, no Convento dos Capuchos em Lisboa. Falamos sobre a nova lei do Teletrabalho e os problemas que queria, quando era suposto solucionar em pleno e regulamentar esta forma de trabalho, foi aprovada a proposta do Bloco de Esquerda. Antevisão das Eleições Legislativas a 30 de Janeiro de 2022. O Presidente da República com esta data não colocou nenhuma das datas que os partidos tinham proposto, algum presidencialismo aqui? Quem ganha com isto? Paulo Rangel? Rui Rio? CDS-PP continuamos sem saber o que vai acontecer, e vemos Cecília Meireles a bater com a porta no Parlamento. </span></p>\n<p>Disponível em: <a href=\"https://open.spotify.com/episode/1woggLKJQ9oy3og5sdXHZe?si=04467493dad247fe\" title=\"https://open.spotify.com/episode/4TsCAfYChGbft6lFfKXpT5?si=154babddc3d349ae\" target=\"_blank\" rel=\"noopener noreferrer\">Spotify</a> | <a href=\"https://podcasts.apple.com/us/podcast/29-cimeira-polititank-lei-teletrabalho-elei%C3%A7%C3%B5es-legislativas/id1562875176?i=1000541704440\" title=\"https://podcasts.apple.com/us/podcast/27-tens%C3%A3o-entre-nato-e-a-r%C3%BAssia-ivaucher-or%C3%A7amento/id1562875176?i=1000539918336\">Apple Podcasts</a> | <a href=\"https://youtu.be/25qVBKPF9ig\" title=\"https://www.youtube.com/watch?v=SFNn6bMIWGo\">Youtube</a> | <a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NjljZjNjOC9wb2RjYXN0L3Jzcw/episode/MjVkMWRkMDYtNTNmZS00YWZmLWJlNDAtOGYzODAxZThlN2Uz\" title=\"https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NjljZjNjOC9wb2RjYXN0L3Jzcw/episode/MjVkMWRkMDYtNTNmZS00YWZmLWJlNDAtOGYzODAxZThlN2Uz\">Google</a> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"400px\" height=\"102px\" src=\"https://anchor.fm/polititankpt/embed/episodes/29-Cimeira-Polititank-Lei-Teletrabalho-Eleies-Legislativas-30-de-Janeiro-2022-e1a7v80\" frameborder=\"0\" scrolling=\"no\"></iframe></div>\n<p> </p>\n<h4> </h4>\n<p> </p>",
-            "author": {
-                "name": "Polititank"
-            },
-            "tags": [
-                   "Gabinete de Crise"
-            ],
-            "date_published": "2021-11-13T22:12:05+00:00",
-            "date_modified": "2021-11-21T18:01:22+00:00"
         }
     ]
 }
