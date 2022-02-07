@@ -3,7 +3,7 @@
     <title>Polititank</title>
     <link href="https://polititank.pt/feed.xml" rel="self" />
     <link href="https://polititank.pt" />
-    <updated>2022-02-07T17:04:57+00:00</updated>
+    <updated>2022-02-07T17:09:13+00:00</updated>
     <author>
         <name>Polititank</name>
     </author>
@@ -17,23 +17,23 @@
         <link href="https://polititank.pt/orgaos/"/>
         <id>https://polititank.pt/orgaos/</id>
 
-        <updated>2022-02-07T17:04:57+00:00</updated>
+        <updated>2022-02-07T17:09:13+00:00</updated>
             <summary>
                 <![CDATA[
-                    Direção Presidente: Cláudio Fonseca Vogal: Bernardo Francisco Ferreira Vogal: José Costa Presidente: Carlota Pignatelli Garcia Vogal: Ana Cláudia Breda Vogal: Vasco Semedo Presidente: Emanuel Almeirante Vogal: António Castro Vogal: André Benquerença
+                    Mesa da Assembleia Geral Presidente: Carlota Pignatelli Garcia Vogal: Ana Cláudia Breda Vogal: Vasco Semedo Presidente: Cláudio Fonseca Vogal: Bernardo Francisco Ferreira Vogal: José Costa Presidente: Emanuel Almeirante Vogal: António Castro Vogal: André Benquerença
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3 class="western align-center">Direção</h3>
-<p class="western align-center">Presidente: Cláudio Fonseca</p>
-<p class="western align-center">Vogal: Bernardo Francisco Ferreira</p>
-<p class="western align-center">Vogal: José Costa</p>
-<p class="align-center"> </p>
-<h3 class="align-center">Mesa da Assembleia Geral</h3>
+                <h3 class="align-center">Mesa da Assembleia Geral</h3>
 <p class="western align-center">Presidente: Carlota Pignatelli Garcia</p>
 <p class="western align-center">Vogal: Ana Cláudia Breda</p>
 <p class="western align-center">Vogal: Vasco Semedo</p>
+<p> </p>
+<h3 class="western align-center">Direção</h3>
+<p class="western align-center">Presidente: Cláudio Fonseca</p>
+<p class="western align-center">Vogal: Bernardo Francisco Ferreira</p>
+<p class="western align-center">Vogal: José Costa</p>
 <p class="western align-center"> </p>
 <h3 class="western align-center">Conselho Fiscal</h3>
 <p class="western align-center">Presidente: Emanuel Almeirante</p>

@@ -14,15 +14,15 @@
             "id": "https://polititank.pt/orgaos/",
             "url": "https://polititank.pt/orgaos/",
             "title": "Órgãos",
-            "summary": "Direção Presidente: Cláudio Fonseca Vogal: Bernardo Francisco Ferreira Vogal: José Costa Presidente: Carlota Pignatelli Garcia Vogal: Ana Cláudia Breda Vogal: Vasco Semedo Presidente: Emanuel Almeirante Vogal: António Castro Vogal: André Benquerença",
-            "content_html": "<h3 class=\"western align-center\">Direção</h3>\n<p class=\"western align-center\">Presidente: Cláudio Fonseca</p>\n<p class=\"western align-center\">Vogal: Bernardo Francisco Ferreira</p>\n<p class=\"western align-center\">Vogal: José Costa</p>\n<p class=\"align-center\"> </p>\n<h3 class=\"align-center\">Mesa da Assembleia Geral</h3>\n<p class=\"western align-center\">Presidente: Carlota Pignatelli Garcia</p>\n<p class=\"western align-center\">Vogal: Ana Cláudia Breda</p>\n<p class=\"western align-center\">Vogal: Vasco Semedo</p>\n<p class=\"western align-center\"> </p>\n<h3 class=\"western align-center\">Conselho Fiscal</h3>\n<p class=\"western align-center\">Presidente: Emanuel Almeirante</p>\n<p class=\"western align-center\">Vogal: António Castro</p>\n<p class=\"western align-center\">Vogal: André Benquerença</p>",
+            "summary": "Mesa da Assembleia Geral Presidente: Carlota Pignatelli Garcia Vogal: Ana Cláudia Breda Vogal: Vasco Semedo Presidente: Cláudio Fonseca Vogal: Bernardo Francisco Ferreira Vogal: José Costa Presidente: Emanuel Almeirante Vogal: António Castro Vogal: André Benquerença",
+            "content_html": "<h3 class=\"align-center\">Mesa da Assembleia Geral</h3>\n<p class=\"western align-center\">Presidente: Carlota Pignatelli Garcia</p>\n<p class=\"western align-center\">Vogal: Ana Cláudia Breda</p>\n<p class=\"western align-center\">Vogal: Vasco Semedo</p>\n<p> </p>\n<h3 class=\"western align-center\">Direção</h3>\n<p class=\"western align-center\">Presidente: Cláudio Fonseca</p>\n<p class=\"western align-center\">Vogal: Bernardo Francisco Ferreira</p>\n<p class=\"western align-center\">Vogal: José Costa</p>\n<p class=\"western align-center\"> </p>\n<h3 class=\"western align-center\">Conselho Fiscal</h3>\n<p class=\"western align-center\">Presidente: Emanuel Almeirante</p>\n<p class=\"western align-center\">Vogal: António Castro</p>\n<p class=\"western align-center\">Vogal: André Benquerença</p>",
             "author": {
                 "name": "Polititank"
             },
             "tags": [
             ],
             "date_published": "2022-02-07T17:04:57+00:00",
-            "date_modified": "2022-02-07T17:04:57+00:00"
+            "date_modified": "2022-02-07T17:09:13+00:00"
         },
         {
             "id": "https://polititank.pt/os-pontos-nos-is-das-legislativas/",
