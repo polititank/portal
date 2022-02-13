@@ -3,12 +3,44 @@
     <title>Polititank</title>
     <link href="https://polititank.pt/feed.xml" rel="self" />
     <link href="https://polititank.pt" />
-    <updated>2022-02-11T18:32:10+00:00</updated>
+    <updated>2022-02-13T08:31:31+00:00</updated>
     <author>
         <name>Polititank</name>
     </author>
     <id>https://polititank.pt</id>
 
+    <entry>
+        <title>A oposição fofinha e os debates quinzenais</title>
+        <author>
+            <name>Polititank</name>
+        </author>
+        <link href="https://polititank.pt/a-oposicao-fofinha-e-os-debates-quinzenais/"/>
+        <id>https://polititank.pt/a-oposicao-fofinha-e-os-debates-quinzenais/</id>
+            <category term="Opinião"/>
+            <category term="Comentário"/>
+
+        <updated>2022-02-13T08:31:31+00:00</updated>
+            <summary>
+                <![CDATA[
+                    O ano era 2020, mais precisamente julho desse ano, quando por iniciativa do PSD e do seu líder Rui Rio, à qual se juntou o Partido Socialista, se aprovou na Assembleia da República o fim dos debates quinzenais com o primeiro-ministro. Não é mentira para&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p align="left"><span lang="pt-PT">O ano era 2020, mais precisamente julho desse ano, quando por iniciativa do PSD e do seu líder Rui Rio, à qual se juntou o Partido Socialista, se aprovou na Assembleia da República o fim dos debates quinzenais com o primeiro-ministro.</span></p>
+<p align="justify"><span lang="pt-PT">Não é mentira para ninguém que Rui Rio não gosta de trabalho parlamentar nem dos debates quinzenais e muito menos faz oposição. Com esta ação o PSD decide chutar para canto esta função e deixar de escrutinar o governo. </span></p>
+<p align="justify"><span lang="pt-PT">Os debates quinzenais são um espaço importante onde a Assembleia da República faz um escrutínio à ação do governo. No fundo, não faz mais do que a sua função. E é aqui que a oposição pode brilhar, ao fazer o que a própria palavra diz, oposição ao governo. Ainda para mais agora, depois da maioria absoluta do PS, escrutinar torna-se mais importante do que nunca, pois o histórico de maiorias absolutas deste partido não nos traz boas memórias.</span></p>
+<p align="justify"><span lang="pt-PT">Ora ao longo destes tempos temos visto que Rui Rio e oposição são duas coisas que não combinam. O “líder da oposição”, entre aspas porque de oposição tem muito pouco, descartou sempre fazer este papel, preferindo a oposição fofinha que em pouco incomoda e nada chateia. </span></p>
+<p align="justify"><span lang="pt-PT">Mais recentemente o tema dos debates quinzenais voltou ao de cima. Após a maioria absoluta do PS os partidos da oposição à direita, a Iniciativa Liberal e o Chega, vieram rapidamente dizer que é preciso voltar já com os debates quinzenais. A estes juntaram-se Bloco de Esquerda, PCP, PAN e Livre. Mais uma vez a oposição fofinha ficou de fora.</span></p>
+<p align="justify"><span lang="pt-PT">Rui Rio apressou-se a dizer que é contra o regresso dos debates quinzenais, pois considera que estes são um “espetáculo parlamentar para abrir telejornais”, dizendo que não é escrutínio sério chamar o primeiro ministro semana sim, semana não, para responder a perguntas </span><span lang="pt-PT">“</span><span lang="pt-PT">lá do fundo da sala (…) a propósito de tudo e mais alguma coisa, sem sequer o primeiro-ministro saber aquilo que lhe vão perguntar”.</span></p>
+<p align="justify"><span lang="pt-PT">Se há forças partidárias que usam os debates para fazer espetáculo é lá com elas. O trabalho da Assembleia da República é fiscalizar e escrutinar as ações do governo e não me parece que um debate a cada dois meses com o primeiro-ministro seja a melhor fiscalização ou escrutínio. Esperava-se do “líder da oposição” que fosse o primeiro a assumir este papel, e não o primeiro a tentar acabar com ele. Num ponto concordo com Rui Rio, é importante termos debates ministrais.</span></p>
+<p align="justify"><span lang="pt-PT">Com esta atitude, Rui Rio abre espaço aos partidos mais à direita para estes se apresentarem como a verdadeira oposição. Mais um tiro no pé na estratégia do PSD. O Chega e a Iniciativa Liberal têm aqui uma oportunidade de ouro para se afirmarem e para crescerem, enquanto o PSD continua a ficar para trás. E é isso mesmo que estão a fazer. Vimos já a Iniciativa Liberal a apresentar um leque de propostas que pretende por em cima da mesa, entre as quais, a alteração do sistema eleitoral ou uma reforma do SNS. É desta oposição que precisamos, uma oposição clara, coerente e com ideias, que escrutina e fiscaliza a ação do governo. Não precisamos da oposição fofinha de Rio.</span></p>
+<p align="justify"><span lang="pt-PT">Para o bem da democracia e do escrutínio parlamentar, é importante o regresso dos debates quinzenais.</span></p>
+<p align="justify"> </p>
+<p align="justify"><em>Este artigo é de opinião e por isto suas ideias reflectem a visão do autor e não de todos os membros do Polititank.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Legislativas de Cabeça Fria</title>
         <author>
@@ -189,7 +221,7 @@
             <category term="Opinião"/>
             <category term="Análises"/>
 
-        <updated>2022-02-11T18:31:50+00:00</updated>
+        <updated>2022-02-12T20:43:24+00:00</updated>
             <summary>
                 <![CDATA[
                     Este artigo de opinião foi publicado na edição de 4 de Fevereiro 2022 do semanário Jornal Diabo. As eleições do passado domingo vieram colocar os pontos nos i’s na política nacional provocando alterações no xadrez político. O Partido Socialista é o grande vencedor da noite&hellip;
@@ -459,35 +491,6 @@
 <p>Será que Chicão cometeu o erro fatal ao adiar o congresso? Pessoalmente acho que deveríamos ter tido uma clarificação interna. No entanto nunca vamos saber como seria a realidade com uma vitória do líder em congresso ou com uma vitória de Nuno Melo. Uma coisa é certa dificilmente seria pior do que é agora pois o partido corre o risco de não eleger ou de ficar reduzido a 1/2 deputados.</p>
 <p> </p>
 <p><em>Este artigo é de opinião e por isto suas ideias reflectem a visão do autor e não de todos os membros do Polititank.</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mensagem de Ano Novo 2022 - Presidente Do Polititank - Cláudio Fonseca</title>
-        <author>
-            <name>Polititank</name>
-        </author>
-        <link href="https://polititank.pt/mensagem-de-ano-novo-2022-presidente-do-polititank-claudio-fonseca/"/>
-        <id>https://polititank.pt/mensagem-de-ano-novo-2022-presidente-do-polititank-claudio-fonseca/</id>
-
-        <updated>2022-01-16T12:01:19+00:00</updated>
-            <summary>
-                <![CDATA[
-                     Como Presidente do Polititank, deixo os meus 4 votos para o Ano de 2022. Paz; Liberdade; Democracia e Pensamento. Porque a Paz é necessária para o desenvolvimento pessoal, bem como das nações, que 2022 seja um ano sem conflitos, sem deslocações massivas de povos&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7kHYY6WcKz0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p><span class="style-scope yt-formatted-string" dir="auto">Como Presidente do Polititank, deixo os meus 4 votos para o Ano de 2022. Paz; Liberdade; Democracia e Pensamento. </span></p>
-<p><span class="style-scope yt-formatted-string" dir="auto">Porque a Paz é necessária para o desenvolvimento pessoal, bem como das nações, que 2022 seja um ano sem conflitos, sem deslocações massivas de povos refugiados. </span></p>
-<p><span class="style-scope yt-formatted-string" dir="auto">Liberdade, porque a Liberdade foi algo retirado a todos e precisamos dela de volta, onde as pessoas possam circular livremente, possam voltar ao seu trabalho, possam fazer a sua vida sem restrições.</span></p>
-<p><span class="style-scope yt-formatted-string" dir="auto"> Democracia, porque é a base da nossa vida, devemos escolher livremente quem queremos como líder e não que nos queiram impor escolhas, ou limitá-las. É preciso votar, é preciso escolher. </span></p>
-<p><span class="style-scope yt-formatted-string" dir="auto">Pensamento é o mais comum ao ser humano, e o que faz diferenciar dos restantes seres vivos. Não podemos abdicar desta mesma faculdade. Pensar! Questionar! Perguntar! </span></p>
-<p><span class="style-scope yt-formatted-string" dir="auto">Bom Ano Novo 2022 para todos! </span></p>
-<p> </p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
