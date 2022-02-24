@@ -3,7 +3,7 @@
     <title>Polititank</title>
     <link href="https://polititank.pt/feed.xml" rel="self" />
     <link href="https://polititank.pt" />
-    <updated>2022-02-24T17:19:24+00:00</updated>
+    <updated>2022-02-24T17:37:36+00:00</updated>
     <author>
         <name>Polititank</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://polititank.pt/ukrainian-independence-and-russian-empire-in-the-21st-century/"/>
         <id>https://polititank.pt/ukrainian-independence-and-russian-empire-in-the-21st-century/</id>
+            <category term="Ukraine"/>
             <category term="Liberdade de Expressão"/>
             <category term="Investigação"/>
+            <category term="Euromaidan"/>
             <category term="Ensaios"/>
 
-        <updated>2022-02-24T17:19:24+00:00</updated>
+        <updated>2022-02-24T17:37:36+00:00</updated>
             <summary>
                 <![CDATA[
                     Imagine contemporary French President Emmanuel Macron ordering the French army to occupy the German Saarland, and then say: “Germany is an anti-French project constructed by British authors.” ... “There has been no Germany for a long time! Saarland is French land. And all of Germany&hellip;
