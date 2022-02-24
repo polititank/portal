@@ -3,7 +3,7 @@
     <title>Polititank</title>
     <link href="https://polititank.pt/feed.xml" rel="self" />
     <link href="https://polititank.pt" />
-    <updated>2022-02-24T18:20:04+00:00</updated>
+    <updated>2022-02-24T19:44:34+00:00</updated>
     <author>
         <name>Polititank</name>
     </author>
@@ -16,8 +16,14 @@
         </author>
         <link href="https://polititank.pt/independencia-ucraniana-e-o-imperio-russo-no-seculo-xxi/"/>
         <id>https://polititank.pt/independencia-ucraniana-e-o-imperio-russo-no-seculo-xxi/</id>
+            <category term="Ukraine"/>
+            <category term="Liberdade de Expressão"/>
+            <category term="Euromaidan"/>
+            <category term="Ensaios"/>
+            <category term="Compendio"/>
+            <category term="Análises"/>
 
-        <updated>2022-02-24T18:20:04+00:00</updated>
+        <updated>2022-02-24T19:44:17+00:00</updated>
             <summary>
                 <![CDATA[
                     Imagine o Presidente Francês contemporâneo Emmanuel Macron ordenar ao exército Francês que ocupe o Sarre alemão, e afirmar: “A Alemanha é um projecto anti-Francês construída por autores britânicos” (…) “A Alemanha não existiu durante muito tempo! O Sarre é território Francês. E toda a Alemanha&hellip;
@@ -94,8 +100,9 @@
             <category term="Investigação"/>
             <category term="Euromaidan"/>
             <category term="Ensaios"/>
+            <category term="Compendio"/>
 
-        <updated>2022-02-24T18:11:31+00:00</updated>
+        <updated>2022-02-24T19:44:34+00:00</updated>
             <summary>
                 <![CDATA[
                     Imagine contemporary French President Emmanuel Macron ordering the French army to occupy the German Saarland, and then say: “Germany is an anti-French project constructed by British authors.” ... “There has been no Germany for a long time! Saarland is French land. And all of Germany&hellip;
