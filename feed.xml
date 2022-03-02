@@ -3,7 +3,7 @@
     <title>Polititank</title>
     <link href="https://polititank.pt/feed.xml" rel="self" />
     <link href="https://polititank.pt" />
-    <updated>2022-03-01T17:09:31+00:00</updated>
+    <updated>2022-03-02T15:29:03+00:00</updated>
     <author>
         <name>Polititank</name>
     </author>
@@ -16,8 +16,12 @@
         </author>
         <link href="https://polititank.pt/o-politicamente-correcto-mata-e-esta-a-matar/"/>
         <id>https://polititank.pt/o-politicamente-correcto-mata-e-esta-a-matar/</id>
+            <category term="Ukraine"/>
+            <category term="Portugal"/>
+            <category term="Opinião"/>
+            <category term="Liberdade de Expressão"/>
 
-        <updated>2022-03-01T16:37:06+00:00</updated>
+        <updated>2022-03-02T15:29:03+00:00</updated>
             <summary>
                 <![CDATA[
                     Estamos a ser bombardeados com as imagens vindas da Ucrânia, vários refugiados aparecem, o desespero de fugir, ainda assim continuamos impávidos e serenos enquanto vemos a coragem dos ucranianos e dos soldados ucranianos, uma ferida está aberta e esta geração nunca se irá esquecer. Foi&hellip;
